@@ -1,10 +1,13 @@
 # CS-330-Comp-graphic-and-Visualization
 
 How I Approach Design
+
 Designing software, in my opinion, begins by breaking down the assignment from the overarching goal into small, manageable parts. This class was specifically designed to encourage that; every week, we added just a new little thing to build toward the final project. This helped me develop a strong understanding of the benefits of this approach. The goal for this assignment was to replicate a 2D image in 3D, and my primary focus was to reduce items into their primitive states. For example, the main feature of my assignment was my sink, which was actually reduced into a various number of boxes, planes, and cylinders to recreate it in a 3D form. The tactics I really learned from this were using a material library and learning to reuse materials when necessary to prevent wasteful data use. The material library was key to creating objects of various standards to ensure they were all different.
 
 Development Strategies
+
 Throughout the semester, this project required a shift from linear coding to state-based coding. It developed from using the camera class and the shader manager to separate appearance from location. I had many instances where I created whitewash lighting issues and had to adjust the parameters. Eventually, the project was driven by refactoring the code into more modular, object-oriented code, which helped reduce cognitive load and make debugging simpler as the project grew in complexity.
 
 Education and Professional Progress
+
 Computer science, in my opinion, is much more than just writing code; it’s about problem-solving and inventive thinking. The problem-solving and use of linear algebra to calculate and coordinate the system will serve as the mathematical foundations for future projects and classes that will require the same. Meanwhile, my professional work will benefit from learning to break things down into smaller parts. The visualization skills gained from learning to develop 2D to 3D and primitive states will help me develop better UI in the future.
